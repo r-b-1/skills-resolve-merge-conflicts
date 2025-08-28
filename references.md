@@ -1,3 +1,8 @@
-# References
+this is some text to conflict with the previous recerences.md file
 
-* octocat 1 😈
+blah blah blah
+
+meep meep
+
+whirrrrrrrrrrrrrrrr
+
